@@ -34,10 +34,6 @@ Mi foco está principalmente en:
 - Integración de IA generativa y agentes en proyectos
 - Arquitectura de soluciones y buenas prácticas de diseño
 
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=citurria24&show_icons=true&theme=transparent&hide_border=true)
-
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/carlos-iturria/)
