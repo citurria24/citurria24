@@ -1,37 +1,42 @@
 # Carlos Iturria
 
-### DevOps Engineer | Automation · Linux · Cloud Infrastructure
+DevOps Engineer con más de 4 años de experiencia en infraestructura productiva, entornos híbridos, automatización y diseño de soluciones.
 
-DevOps Engineer con más de 4 años de experiencia trabajando con infraestructura productiva, entornos híbridos y automatización.
+Trabajo en la estandarización y evolución de plataformas, buscando soluciones escalables, mantenibles y confiables mediante **Infrastructure as Code, CI/CD, scripting, automatización y arquitectura cloud**.
 
-Me enfoco en reducir tareas manuales, estandarizar procesos y mejorar la confiabilidad de los entornos mediante **Infrastructure as Code, CI/CD, scripting y automatización**.
+Además, desarrollo proyectos personales integrando **IA generativa sobre AWS, LLMs, agentes y flujos de automatización asistidos por IA**, explorando su aplicación en soluciones cloud y procesos técnicos.
 
 ## Stack
 
 **Cloud & Architecture:** AWS · Azure · Cloud Architecture · High Availability · Scalability  
 **Systems:** Linux · RHEL · Windows Server  
-**Containers:** Docker · Kubernetes · ArgoCD  
-**Automation:** Ansible · AWX · n8n · Bash · Python  
+**Containers & Orchestration:** Docker · Kubernetes  
+**Automation & Scripting:** Ansible · AWX · n8n · Bash · Python  
 **Infrastructure as Code:** Terraform  
 **CI/CD & GitOps:** Git · GitLab CI/CD · Azure DevOps · ArgoCD  
-**Networking:** DNS · HTTP/HTTPS · Load Balancing · Ingress · TLS  
+**Networking:** DNS · HTTP/HTTPS · Ingress · Load Balancing · TLS  
 **Observability:** Zabbix · Grafana · ELK  
-**Identity & Security:** Active Directory · Microsoft 365 · Keycloak · RBAC  
+**Identity & Access:** Active Directory · Microsoft 365 · Keycloak · RBAC  
+**AI & Agentic Systems:** Amazon Bedrock · Generative AI · LLM Integration · AI Agents · Agentic Workflows  
 **Virtualization:** VMware · Proxmox  
 **Databases:** Oracle · MySQL · DB2  
 **Integration:** REST APIs
 
 ## Actualmente
 
-Trabajando principalmente en:
+Mi foco está principalmente en:
 
-- Automatización de infraestructura
-- CI/CD
-- Kubernetes
-- Linux
-- Cloud
-- GitOps
-- Observabilidad
+- Automatización y estandarización de infraestructura
+- Diseño y evolución de soluciones cloud e híbridas
+- CI/CD, GitOps y despliegues sobre Kubernetes
+- Infrastructure as Code
+- Observabilidad y confiabilidad de plataformas
+- Integración de IA generativa y agentes en proyectos
+- Arquitectura de soluciones y buenas prácticas de diseño
+
+## GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=citurria24&show_icons=true&theme=transparent&hide_border=true)
 
 ## Contacto
 
