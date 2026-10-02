@@ -8,15 +8,18 @@ Me enfoco en reducir tareas manuales, estandarizar procesos y mejorar la confiab
 
 ## Stack
 
-**Cloud:** AWS · Azure  
+**Cloud & Architecture:** AWS · Azure · Cloud Architecture · High Availability · Scalability  
 **Systems:** Linux · RHEL · Windows Server  
-**Containers:** Docker · Kubernetes  
+**Containers:** Docker · Kubernetes · ArgoCD  
 **Automation:** Ansible · AWX · n8n · Bash · Python  
-**IaC:** Terraform  
-**CI/CD:** GitLab CI/CD · Azure DevOps · ArgoCD  
+**Infrastructure as Code:** Terraform  
+**CI/CD & GitOps:** Git · GitLab CI/CD · Azure DevOps · ArgoCD  
+**Networking:** DNS · HTTP/HTTPS · Load Balancing · Ingress · TLS  
 **Observability:** Zabbix · Grafana · ELK  
-**Identity:** Active Directory · Microsoft 365 · Keycloak  
-**Virtualization:** VMware · Proxmox
+**Identity & Security:** Active Directory · Microsoft 365 · Keycloak · RBAC  
+**Virtualization:** VMware · Proxmox  
+**Databases:** Oracle · MySQL · DB2  
+**Integration:** REST APIs
 
 ## Actualmente
 
@@ -29,10 +32,6 @@ Trabajando principalmente en:
 - Cloud
 - GitOps
 - Observabilidad
-
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=citurria24&show_icons=true&theme=transparent&hide_border=true)
 
 ## Contacto
 
